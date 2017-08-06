@@ -1,7 +1,7 @@
 /*!
  * Materialize v0.95.0 (http://materializecss.com)
  * Copyright 2014-2015 Materialize
- * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
+ * MIT License (https://cdn.rawgit.com/Dogfalo/materialize/master/LICENSE)
  */
 /*
  * jQuery Easing v1.3 - http://gsgd.co.uk/sandbox/jquery/easing/
