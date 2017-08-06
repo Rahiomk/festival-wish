@@ -1,5 +1,5 @@
 <html>
- <link rel="manifest" href="//fest-wishes.com/manifest.json">
+ <link rel="manifest" href="https://cdn.rawgit.com/hasnen/festival-wish/master/manifest.json">
   <script src="https://cdn.rawgit.com/hasnen/festival-wish/master/js/OneSignalSDK.js" async></script>
   <script>
     var OneSignal = window.OneSignal || [];
