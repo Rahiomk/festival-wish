@@ -1,1 +1,1 @@
-importScripts('https://cdn.rawgit.com/hasnen/festival-wish/master/js/OneSignalSDK.js');
+importScripts('https://cdn.onesignal.com/sdks/OneSignalSDK.js');
