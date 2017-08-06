@@ -11,6 +11,6 @@
       }
     }]);
   </script>
-<script src="//cdn.rawgit.com/hasnen/festival-wish/master/OneSignalSDKWorker.js"></script>
-<script src="//cdn.rawgit.com/hasnen/festival-wish/master/OneSignalSDKUpdaterWorker.js"></script>
+<script src="https://cdn.rawgit.com/hasnen/festival-wish/master/OneSignalSDKWorker.js"></script>
+<script src="https://cdn.rawgit.com/hasnen/festival-wish/master/OneSignalSDKUpdaterWorker.js"></script>
   <head>
